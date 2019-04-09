@@ -1,2 +1,2 @@
 # Past-Lecture-Materials
-Lecture notes / past exams / etc
+Lecture slides / past exams / etc
